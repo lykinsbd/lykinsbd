@@ -6,6 +6,10 @@
 My name is Brett Lykins, and my pronouns are [He/Him](https://pronoun.is/he).
 <!-- vale Microsoft.Vocab = YES -->
 
+<p>
+  <img align="center" width="160" height="134" alt="Image of Brett in front of some trees" src="./images/IMG_5617_smol_cropped.jpg">
+</p>
+
 I am a Managing Consultant at [Network to Code](https://www.networktocode.com/) where I drive network automation transformations inside large enterprise clients.
 
 ![Network to Code Logo](./images/NTC_Logo_Horizontal.png)
