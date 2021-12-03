@@ -8,6 +8,8 @@ My name is Brett Lykins, and my pronouns are [He/Him](https://pronoun.is/he).
 
 I am a Managing Consultant at [Network to Code](https://www.networktocode.com/) where I drive network automation transformations inside large enterprise clients.
 
+![Network to Code Logo](./images/NTC_Logo_Horizontal.png)
+
 ## Quick facts about me
 
 One of these is a lie, and you should try to guess which one.
@@ -19,22 +21,27 @@ One of these is a lie, and you should try to guess which one.
 
 ## Current projects
 
-ASDF - Testing.
+These are projects that I am (somewhat) actively working on.
+
+* [cisshgo](https://github.com/tbotnz/cisshgo): A small, fast, concurrent SSH server to emulate network equipment (for example, Cisco IOS) for testing purposes.
+* [Leanpub Multi Action](https://github.com/lykinsbd/leanpub-multi-action): A Github Action built for interacting with the API of [Leanpub](https://leanpub.com/) in your authoring workflows.
 
 ## Past projects
 
-ASDF
+These are projects I was actively working on in the past, but I've not touched much in recent months (or years 😅).
+
+* [NAAS](https://github.com/lykinsbd/naas): Netmiko as A Service is an API driven wrapper for the popular [Netmiko](https://github.com/ktbyers/netmiko) Python library for interacting with network devices.
+* [Stockpiler](https://github.com/lykinsbd/stockpiler): A [Nornir](https://github.com/nornir-automation/nornir) based tool for backing up network device configurations.
 
 ## Drumroll please
 
-The lie was the first one.
-I am not a new nerd but a lifelong nerd.
+The lie was the first one, if you guessed right here is a cookie: 🍪
 
-If you guessed right, here is a cookie: 🍪
+I am not a new nerd, but a lifelong nerd.
 
 And here are the receipts:
 
-![A picture of Brett as a diapered-toddler typing on an Apple IIe](images/IMG_2377.jpg)
+![A picture of Brett as a diapered-toddler typing on an Apple IIe](./images/IMG_2377.jpg)
 <!--
 **lykinsbd/lykinsbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
