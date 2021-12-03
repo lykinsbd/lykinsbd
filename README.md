@@ -5,15 +5,16 @@
 <!-- vale Microsoft.Vocab = NO -->
 My name is Brett Lykins, and my pronouns are [He/Him](https://pronoun.is/he).
 <!-- vale Microsoft.Vocab = YES -->
+I live in Fairfax, Virginia, USA.
 
 <p>
-  <img align="center" width="460" height="384" alt="Image of Brett in front of some trees" src="./images/IMG_5617_smol_cropped.jpg">
+    <img align="center" width="460" alt="Image of Brett in front of some trees" src="./images/IMG_5617_smol_cropped.jpg">
 </p>
 
 I am a Managing Consultant at [Network to Code](https://www.networktocode.com/) where I drive network automation transformations inside large enterprise clients.
 
 <p>
-  <img align="center" width=400 alt="Network to Code Logo" src="./images/NTC_Logo_Horizontal.png">
+    <img align="center" width=460 alt="Network to Code Logo" src="./images/NTC_Logo_Horizontal.png">
 </p>
 
 ## Quick facts about me
@@ -45,9 +46,20 @@ The lie was the first one, if you guessed right here is a cookie: 🍪
 
 I am not a new nerd, but a lifelong nerd.
 
-And here are the receipts:
+And here are the receipts.
 
-![A picture of Brett as a diapered-toddler typing on an Apple IIe](./images/IMG_2377.jpg)
+My first computer:
+
+<p>
+    <img align="center" width="460" alt="A picture of Brett as a diapered-toddler typing on an Apple IIe" src="./images/IMG_2377.jpg">
+</p>
+
+Teaching my son that This is the Way:
+
+<p>
+    <img align="center" width="460" alt="A picture of Brett and his son in Star Wars costumes" src="./images/IMG_6025.jpg">
+</p>
+
 <!--
 **lykinsbd/lykinsbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
