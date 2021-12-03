@@ -12,7 +12,9 @@ My name is Brett Lykins, and my pronouns are [He/Him](https://pronoun.is/he).
 
 I am a Managing Consultant at [Network to Code](https://www.networktocode.com/) where I drive network automation transformations inside large enterprise clients.
 
-![Network to Code Logo](./images/NTC_Logo_Horizontal.png)
+<p>
+  <img align="center" width=400 alt="Network to Code Logo" src="./images/NTC_Logo_Horizontal.png">
+</p>
 
 ## Quick facts about me
 
