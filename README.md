@@ -1,4 +1,18 @@
-### Hi there 👋
+# Hello there 👋
+
+<!-- vale Microsoft.FirstPerson = NO -->
+
+Hello, my name is Brett Lykins!
+
+Pronouns: He/Him
+
+I am an unabashed technology 👨🏻‍💻 and music 🎸 nerd.
+
+I write Python and Go, and write/speak about using these to solve IT infrastructure problems.
+
+## Current projects
+
+ASDF - Testing.
 
 <!--
 **lykinsbd/lykinsbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- vale Microsoft.FirstPerson = YES -->
