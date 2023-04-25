@@ -11,7 +11,7 @@ I live in Fairfax, Virginia, USA.
     <img align="center" width="600" alt="Image of Brett in front of some trees" src="./images/IMG_5617_smol_cropped.jpg">
 </p>
 
-I am Director of Managed Services at [Network to Code](https://www.networktocode.com/) where I guide our efforts to provide support, hosting, and other managed services for Network Automation.
+I am the Director of Managed Services at [Network to Code](https://www.networktocode.com/) where I guide our efforts to provide support, hosting, and other managed services for Network Automation.
 
 <p>
     <img align="center" width=600 alt="Network to Code Logo" src="./images/NTC_Logo_Horizontal.png">
@@ -31,14 +31,14 @@ One of these is a lie, and you should try to guess which one.
 These are projects that I am (somewhat) actively working on.
 
 * [cisshgo](https://github.com/tbotnz/cisshgo): A small, fast, concurrent SSH server to emulate network equipment (for example, Cisco IOS) for testing purposes.
-* [Leanpub Multi Action](https://github.com/lykinsbd/leanpub-multi-action): A Github Action built for interacting with the API of [Leanpub](https://leanpub.com/) in your authoring workflows.
+* [Leanpub Multi Action](https://github.com/lykinsbd/leanpub-multi-action): A Github Action I built for interacting with the API of [Leanpub](https://leanpub.com/) in your authoring workflows.
 
 ## Past projects
 
 These are projects I was actively working on in the past, but I've not touched much in recent months (or years 😅).
 
-* [NAAS](https://github.com/lykinsbd/naas): Netmiko as A Service is an API driven wrapper for the popular [Netmiko](https://github.com/ktbyers/netmiko) Python library for interacting with network devices.
-* [Stockpiler](https://github.com/lykinsbd/stockpiler): A [Nornir](https://github.com/nornir-automation/nornir) based tool for backing up network device configurations.
+* [NAAS](https://github.com/lykinsbd/naas): Netmiko as A Service is an API-driven wrapper for the popular [Netmiko](https://github.com/ktbyers/netmiko) Python library for interacting with network devices.
+* [Stockpiler](https://github.com/lykinsbd/stockpiler): A [Nornir](https://github.com/nornir-automation/nornir)-based tool for backing up network device configurations.
 
 ## Drumroll please
 
