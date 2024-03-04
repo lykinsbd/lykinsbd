@@ -11,10 +11,10 @@ I live in Fairfax, Virginia, USA.
     <img align="center" width="600" alt="Image of Brett in front of some trees" src="./images/IMG_5617_smol_cropped.jpg">
 </p>
 
-I am the Director of Managed Services at [Network to Code](https://www.networktocode.com/) where I guide our efforts to provide support, hosting, and other managed services for Network Automation.
+I am the Director of the Automation Architect Team at [NetBrain](https://www.netbraintech.com/) where I support a stellar team of Architects working on large scale Network Automation.
 
 <p>
-    <img align="center" width=600 alt="Network to Code Logo" src="./images/NTC_Logo_Horizontal.png">
+    <img align="center" width=600 alt="NetBrain Logo" src="./images/netbrain-logo.svg">
 </p>
 
 ## Quick facts about me
