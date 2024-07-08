@@ -11,7 +11,7 @@ I live in Fairfax, Virginia, USA.
     <img align="center" width="600" alt="Image of Brett in front of some trees" src="./images/IMG_5617_smol_cropped.jpg">
 </p>
 
-I am the Director of the Automation Architect Team at [NetBrain](https://www.netbraintech.com/) where I support a stellar team of Architects working on large scale Network Automation.
+I am the Director of Product Management at [OpsMill](https://www.opsmill.com/).
 
 <p>
     <img align="center" width=600 alt="NetBrain Logo" src="./images/netbrain-logo.svg">
