@@ -14,7 +14,9 @@ I live in Fairfax, Virginia, USA.
 I am the Director of Product Management at [OpsMill](https://www.opsmill.com/).
 
 <p>
-    <img align="center" width=600 alt="NetBrain Logo" src="./images/netbrain-logo.svg">
+    <a href="https://www.opsmill.com">
+        <img align="center" width=600 alt="OpsMill Logo" src="./images/opsmill_logo-white-nothing-txt-p-500.png">
+    </a>
 </p>
 
 ## Quick facts about me
