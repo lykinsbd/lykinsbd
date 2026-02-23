@@ -24,6 +24,7 @@ One of these is a lie, and you should try to guess which one.
 
 These are projects that I am (somewhat) actively working on.
 
+* [NAAS](https://github.com/lykinsbd/naas): Netmiko as A Service is a REST API wrapper for the popular [Netmiko](https://github.com/ktbyers/netmiko) Python library for interacting with network devices. Currently modernizing and preparing for v1.0 release.
 * [cisshgo](https://github.com/tbotnz/cisshgo): A small, fast, concurrent SSH server to emulate network equipment (for example, Cisco IOS) for testing purposes.
 * [Leanpub Multi Action](https://github.com/lykinsbd/leanpub-multi-action): A Github Action I built for interacting with the API of [Leanpub](https://leanpub.com/) in your authoring workflows.
 
@@ -31,8 +32,25 @@ These are projects that I am (somewhat) actively working on.
 
 These are projects I was actively working on in the past, but I've not touched much in recent months (or years 😅).
 
-* [NAAS](https://github.com/lykinsbd/naas): Netmiko as A Service is an API-driven wrapper for the popular [Netmiko](https://github.com/ktbyers/netmiko) Python library for interacting with network devices.
 * [Stockpiler](https://github.com/lykinsbd/stockpiler): A [Nornir](https://github.com/nornir-automation/nornir)-based tool for backing up network device configurations.
+
+## Tech stack
+
+**Languages**: Python, Go, Shell/Bash, Groovy  
+**Infrastructure**: Docker, Kubernetes, Terraform, AWS, Linux  
+**Network Automation**: Infrahub, Nautobot, NetBox, Ansible, Netmiko, Nornir, NAPALM  
+**Protocols**: GNMI, Netconf/RESTconf, SNMP  
+**Tools**: Git, GitHub Actions, Flask, Redis
+
+## Let's connect
+
+* 📝 Blog: [network-notes.com](https://network-notes.com)
+* 💼 LinkedIn: [brettlykins](https://www.linkedin.com/in/brettlykins/)
+* 📧 Email: <lykinsbd@gmail.com>
+
+## GitHub Stats
+
+![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=lykinsbd&show_icons=true&theme=default)
 
 ## Drumroll please
 
