@@ -48,10 +48,6 @@ These are projects I was actively working on in the past, but I've not touched m
 * 💼 LinkedIn: [brettlykins](https://www.linkedin.com/in/brettlykins/)
 * 📧 Email: <lykinsbd@gmail.com>
 
-## GitHub Stats
-
-![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=lykinsbd&show_icons=true&theme=default&cache_seconds=1800)
-
 ## Drumroll please
 
 The lie was the first one, if you guessed right here is a cookie: 🍪
