@@ -50,7 +50,7 @@ These are projects I was actively working on in the past, but I've not touched m
 
 ## GitHub Stats
 
-![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=lykinsbd&show_icons=true&theme=default)
+![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=lykinsbd&show_icons=true&theme=default&cache_seconds=1800)
 
 ## Drumroll please
 
