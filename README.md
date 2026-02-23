@@ -8,7 +8,7 @@ My name is Brett Lykins, and my pronouns are [He/Him](https://pronoun.is/he).
 I live in Fairfax, Virginia, USA.
 
 <p>
-    <img align="center" width="600" alt="Image of Brett in front of some trees" src="./images/IMG_5617_smol_cropped.jpg">
+    <img align="center" width="450" alt="Image of Brett in front of some trees" src="./images/IMG_5617_smol_cropped.jpg">
 </p>
 
 ## Quick facts about me
@@ -59,13 +59,13 @@ And here are the receipts.
 My first computer:
 
 <p>
-    <img align="center" width="600" alt="A picture of Brett as a diapered-toddler typing on an Apple IIe" src="./images/IMG_2377.jpg">
+    <img align="center" width="450" alt="A picture of Brett as a diapered-toddler typing on an Apple IIe" src="./images/IMG_2377.jpg">
 </p>
 
 Teaching my son that This is the Way:
 
 <p>
-    <img align="center" width="600" alt="A picture of Brett and his son in Star Wars costumes" src="./images/IMG_6025.jpg">
+    <img align="center" width="450" alt="A picture of Brett and his son in Star Wars costumes" src="./images/IMG_6025.jpg">
 </p>
 
 <!--
