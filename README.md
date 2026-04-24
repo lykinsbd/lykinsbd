@@ -17,12 +17,12 @@ One of these is a lie, and you should try to guess which one.
 
 * 🤓 I am a new nerd who loves knowing how things work and how they're put together
 * 👨🏻‍💻 🎸  I am passionate about technology and music, but after an unsuccessful year at music school I realized I should probably keep technology as a career and music as a hobby
-* 💼 I spent 15 years working in Networking and Security before I began to use Python and Go to make my life easier
+* 💼 I have spent 19 years working in Networking, Security, and Automation; I use Python, Go, and LLMs to make life easier for myself and others
 * ✍🏻 🎙 I write and speak about the intersection of these things to help organizations solve IT infrastructure problems
 
 ## Current projects
 
-These are projects that I am (somewhat) actively working on.
+These are projects that I am actively working on.
 
 * [NAAS](https://github.com/lykinsbd/naas): Netmiko as A Service is a REST API wrapper for the popular [Netmiko](https://github.com/ktbyers/netmiko) Python library for interacting with network devices. Currently modernizing and preparing for v1.0 release.
 * [cisshgo](https://github.com/tbotnz/cisshgo): A small, fast, concurrent SSH server to emulate network equipment (for example, Cisco IOS) for testing purposes.
@@ -41,11 +41,14 @@ These are projects I was actively working on in the past, but I've not touched m
 **Network Automation**: Infrahub, Nautobot, NetBox, Ansible, Netmiko, Nornir, NAPALM  
 **Protocols**: GNMI, Netconf/RESTconf, SNMP  
 **Tools**: Git, GitHub Actions, Flask, Redis
+**AI/LLM Tooling**: Amazon Bedrock, Claude, Kiro CLI
 
 ## Let's connect
 
 * 📝 Blog: [network-notes.com](https://network-notes.com)
+* 🐙 GitHub: [lykinsbd](https://github.com/lykinsbd)
 * 💼 LinkedIn: [brettlykins](https://www.linkedin.com/in/brettlykins/)
+* 🐘 Mastodon: [@lykinsbd@fosstodon.org](https://fosstodon.org/@lykinsbd)
 * 📧 Email: <lykinsbd@gmail.com>
 
 ## Drumroll please
